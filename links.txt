@@ -1,0 +1,5 @@
+https://www.w3schools.com/css/css3_flexbox.asp
+
+https://dev.to/lazarocontato/quando-utilizar-rem-em-ou-pixel-cf0 - o que é 'rem'
+
+https://flukeout.github.io/
