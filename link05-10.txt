@@ -1,0 +1,7 @@
+https://www.w3schools.com/html/html_tables.asp
+
+
+A tag <table></table> declara uma tabela;
+Já a tag <tr></tr> declara uma linha; (table row)
+<th></th> e <td></td> definem a criação de uma célula na tabela, sendo que
+<th></th> é pra definir células de titulo do elemento
