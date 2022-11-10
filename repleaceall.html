@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>SUBSTITUINDO NOMES</h1>
+<h2>VAMOS LÁ</h2>
+
+<p>ABAIXO IREMOS SUBSTITUIR UM NOME PELO OUTRO.</p>
+
+<p id="SUBSTITUIR"></p>
+</body>
+
+<script>
+    let text = "EU ME CHAMO JOAO ORLANDO."
+    text = text.replaceAll("JOAO","TIAGO");
+    text = text.replaceAll("ORLANDO","BATISTA");
+    
+    document.getElementById("SUBSTITUIR").innerHTML = text;
+    </script>
+</html>
